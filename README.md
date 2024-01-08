@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there, I'm Alex Heckmann 👋
 
-<!--
-**alexheckmann/alexheckmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⭐ About Me:
+- 🐉 I'm a passionate developer always seeking a new challenge; experienced in business process management, data engineering, and AI engineering using LLMs.
+- 🪴 I firmly believe technology has the potential to make the world a better place, but also to make it more fun
+- 🌱 Currently learning more about advanced TypeScript techniques to enhance my Next.js skillset and build amazing fullstack applications
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+- Languages: Python, TypeScript, SQL, bash, Java
+- Tools: AWS, Azure, MongoDB, Oracle DB, Kafka, Flink, Spark, LangChain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out: [Alex Heckmann](https://www.linkedin.com/in/alexander-heckmann/)
+Let's embark on this coding journey together! 💪🏼
