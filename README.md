@@ -10,4 +10,5 @@
 - Tools: AWS, Azure, MongoDB, Oracle DB, Kafka, Flink, Spark, LangChain
 
 Feel free to reach out: [Alex Heckmann](https://www.linkedin.com/in/alexander-heckmann/)
+
 Let's embark on this coding journey together! 💪🏼
