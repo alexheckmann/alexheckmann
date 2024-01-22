@@ -1,4 +1,4 @@
-### Hey there, I'm Alex Heckmann 👋
+### Hey there, I'm Alex 👋
 
 ⭐ About Me:
 - 🐉 I'm a passionate developer always seeking a new challenge; experienced in business process management, data engineering, and AI engineering using LLMs.
