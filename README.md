@@ -7,8 +7,8 @@
 
 💻 Tech Stack:
 - Languages: Python, TypeScript, SQL, bash, Java
-- Tools: AWS, Azure, MongoDB, Oracle DB, Kafka, Flink, Spark, LangChain
+- Tools: AWS, Azure, MongoDB, Oracle DB, Kafka, Flink, Spark, LangChain, HuggingFace, PyTorch
 
-Feel free to reach out: [Alex Heckmann](https://www.linkedin.com/in/alexander-heckmann/)
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alexander-heckmann/)
 
 Let's embark on this coding journey together! 💪🏼
